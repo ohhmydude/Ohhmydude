@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Ohhmydude=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ohhmydude&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
