@@ -2,11 +2,38 @@
 - I’m currently working on Deep Learning Project.
 Tech Stack: Keras, TensorFlow
 
-Paper Publication:
-https://drive.google.com/file/d/1xLYZ-Yj_beeVxOO5VmcRZgdaxG3qpEl4/view?usp=sharing
+- Research Areas: Intelligent Systems(AI/ML, NLP, Specch, Text), Blockchain Technology
 
-Coding Profiles:
+- Work Done: 
+
+      *"POS TAGGING"*
+
+      Natural Language Processing
+      • Build a POS tagger to distinguish the various meaning of the
+      same word at different places by using HMM.
+      • Done analysis on Viterbi algorithm to make the retrieval system
+      fast and accurate.
+
+      *"Blockchain – A Public Distribution System"*
+
+      Blockchain, Python, Firebase
+      • Developed a Public Distribution System using Blockchain
+      Technology.
+      • Implemented Blockchain using Python and add Firebase to
+      store all the transactions.
+
+- Paper Publication:
+"POS Tagging in Natural Language Processing"
+Computational Optimization, modelling and Simulation: Recent Trends and Challenges || Shaastrarth ‘22.
+
+     https://drive.google.com/file/d/1xLYZ-Yj_beeVxOO5VmcRZgdaxG3qpEl4/view?usp=sharing
+
+- Resume: https://drive.google.com/file/d/1c3Fv385V0HeormrZ_yMiA5SvPPQjgezt/view?usp=sharing
+
+- Coding Profiles:
+
 Codechef: https://www.codechef.com/users/ohhmydude
+
 Hackerrank: https://www.hackerrank.com/ohhmydude
 
 <!---
