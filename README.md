@@ -6,7 +6,7 @@ Tech Stack: Keras, TensorFlow
 
 - Work Done: 
 
-      *"POS TAGGING"*
+      POS TAGGING
 
       Natural Language Processing
       • Build a POS tagger to distinguish the various meaning of the
@@ -14,7 +14,7 @@ Tech Stack: Keras, TensorFlow
       • Done analysis on Viterbi algorithm to make the retrieval system
       fast and accurate.
 
-      *"Blockchain – A Public Distribution System"*
+      Blockchain – A Public Distribution System
 
       Blockchain, Python, Firebase
       • Developed a Public Distribution System using Blockchain
@@ -32,9 +32,9 @@ Computational Optimization, modelling and Simulation: Recent Trends and Challeng
 
 - Coding Profiles:
 
-Codechef: https://www.codechef.com/users/ohhmydude
+     Codechef: https://www.codechef.com/users/ohhmydude
 
-Hackerrank: https://www.hackerrank.com/ohhmydude
+     Hackerrank: https://www.hackerrank.com/ohhmydude
 
 <!---
 Ohhmydude/Ohhmydude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
