@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Sneha
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me ...
+- 👋 Hello, I’m Sneha
+- I’m currently working on Deep Learning Project.
+Tech Stack: Keras, TensorFlow
+
+Paper Publication:
+https://drive.google.com/file/d/1xLYZ-Yj_beeVxOO5VmcRZgdaxG3qpEl4/view?usp=sharing
+
+Coding Profiles:
+Codechef: https://www.codechef.com/users/ohhmydude
+Hackerrank: https://www.hackerrank.com/ohhmydude
 
 <!---
 Ohhmydude/Ohhmydude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
