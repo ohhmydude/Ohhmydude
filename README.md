@@ -2,7 +2,7 @@
 - I’m currently working on Deep Learning Project.
 Tech Stack: Keras, TensorFlow
 
-- Research Areas: Intelligent Systems(AI/ML, NLP, Specch, Text), Blockchain Technology
+- Research Areas: Intelligent Systems(AI/ML, NLP, Speech, Text), Blockchain Technology
 
 - Work Done: 
 
