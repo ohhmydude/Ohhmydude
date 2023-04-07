@@ -1,10 +1,19 @@
 - 👋 Hello, I’m Sneha
-- I’m currently working on Deep Learning Project.
-Tech Stack: Keras, TensorFlow
+- I’m currently working on Pose Estimation and Machine Translation.
+Tech Stack: Keras, TensorFlow, OpenCV
 
 - Research Areas: Intelligent Systems(AI/ML, NLP, Speech, Text), Blockchain Technology
 
 - Work Done: 
+
+      Sentence Similarity 
+      
+      Natural Language Processing
+      
+      • Analysed various sentence similarity algorithms and performed performance measurements using python.
+      • Focused more on Semantic Similarity than Syntactic to create a fast and accurate retrieval system. Done analysis on SICK
+      Dataset and achieved an accuracy of 95.4 percent.
+
 
       POS TAGGING
 
@@ -28,14 +37,15 @@ Computational Optimization, modelling and Simulation: Recent Trends and Challeng
 
      https://drive.google.com/file/d/1xLYZ-Yj_beeVxOO5VmcRZgdaxG3qpEl4/view?usp=sharing
 
-- Resume: https://drive.google.com/file/d/1c3Fv385V0HeormrZ_yMiA5SvPPQjgezt/view?usp=sharing
+- Resume: https://drive.google.com/file/d/13M-aq3nKkiywlHYlYi072sc_sNfalHkz/view?usp=sharing
 
 - Coding Profiles:
 
      Codechef: https://www.codechef.com/users/ohhmydude
 
      Hackerrank: https://www.hackerrank.com/ohhmydude
-
+     
+     GFG: https://auth.geeksforgeeks.org/user/omd
 <!---
 Ohhmydude/Ohhmydude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
