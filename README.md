@@ -10,8 +10,10 @@ Tech Stack: Keras, TensorFlow, OpenCV
       
       Natural Language Processing
       
-      • Analysed various sentence similarity algorithms and performed performance measurements using python.
-      • Focused more on Semantic Similarity than Syntactic to create a fast and accurate retrieval system. Done analysis on SICK
+      • Analysed various sentence similarity algorithms and performed 
+      performance measurements using python.
+      • Focused more on Semantic Similarity than Syntactic to create 
+      a fast and accurate retrieval system. Done analysis on SICK
       Dataset and achieved an accuracy of 95.4 percent.
 
 
