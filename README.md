@@ -52,7 +52,15 @@ Computational Optimization, modelling and Simulation: Recent Trends and Challeng
 Ohhmydude/Ohhmydude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ohhmydude&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ohhmydude&theme=solarized-light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ohhmydude&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://komarev.com/ghpvc/?username=Ohhmydude&label=PROFILE+VIEWS)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ohhmydude&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ohhmydude&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
